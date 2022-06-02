@@ -1,4 +1,4 @@
-# drobox-upload-video-using-php-using-sdk
+# drobox-upload-video-using-php
 Upload video/sync video from server/local to dropbox using PHP SDK. 
 get public url and download url of that video using dropbox API. 
 
